@@ -1,0 +1,7 @@
+web:
+build: .
+command: python3.5 /code/app/app.py
+ports:
+   - "3010:5000"
+volumes:
+   - .:/code
