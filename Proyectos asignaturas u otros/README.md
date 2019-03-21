@@ -1,0 +1,1 @@
+Carpeta con proyectos asociados a asignaturas de alumnos que pertenecen a la comunidad.
